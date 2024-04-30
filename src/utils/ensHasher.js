@@ -88,7 +88,7 @@ const { ethers } = require('ethers');
 // Assuming these values are now directly set here for demonstration,
 // but in practice, they should be securely stored and accessed via environment variables.
 const BASE_CHAIN_ID = 84532;
-const BASE_CONTRACT_ADDRESS = "0x14B4ff9964dbb803967Ffd2D24819EA5a8496476";
+const BASE_CONTRACT_ADDRESS = "0x7791268d40ece2a222f687d25a563cd1282c9fbd";
 const CCIP_PRIVATE_KEY = "0xb9107381136de811b8e393a31c99b02382db3d374502c3b0f80f094d343df8d3";
 
 class ENSHasher {
